@@ -1,5 +1,5 @@
+##First Project
 # ALX Simple Interactive Quiz
-
 This project is a simple interactive quiz application built as part of the ALX Front-End Development curriculum. The quiz allows users to select an answer to a question and receive instant feedback on their choice.
 
 ## Features
@@ -28,6 +28,7 @@ This project is a simple interactive quiz application built as part of the ALX F
 ##Author: Dorwu Gabriel.
 This project was completed as part of the ALX Software Engineering Program to demonstrate basic front-end development and JavaScript interactivity skills.
 
+##Second Project.
 ## Simple Calculator Application
 
 This project is a basic calculator web application that allows users to perform addition, subtraction, multiplication, and division on two numbers. It demonstrates fundamental JavaScript concepts and DOM manipulation for interactive web applications.
@@ -45,7 +46,7 @@ This project is a basic calculator web application that allows users to perform 
 3. The result will be displayed instantly below the buttons.
 
 ### Screenshot
-![Calculator Screenshot](path/to/calculator-screenshot.png)
+![Calculator Screenshot](https://github.com/Dorwu-Gabriel/ALX_Simple_Quiz/blob/main/calculator.png)
 
 ### Author
 ##Dorwu Gabriel.
