@@ -1,4 +1,5 @@
-##First Project
+#First Project
+
 # ALX Simple Interactive Quiz
 This project is a simple interactive quiz application built as part of the ALX Front-End Development curriculum. The quiz allows users to select an answer to a question and receive instant feedback on their choice.
 
@@ -49,5 +50,6 @@ This project is a basic calculator web application that allows users to perform 
 ![Calculator Screenshot](https://github.com/Dorwu-Gabriel/ALX_Simple_Quiz/blob/main/calculator.png)
 
 ### Author
-##Dorwu Gabriel.
+#Dorwu Gabriel.
+
 This project was created by the author as part of the ALX Front-End Development curriculum.
