@@ -25,5 +25,5 @@ This project is a simple interactive quiz application built as part of the ALX F
 ![Screenshot](https://github.com/Dorwu-Gabriel/ALX_Simple_Quiz/blob/main/ALX_Simple_Quiz.png)
 
 ## About
-Author: Dorwu Gabriel
+Author: Dorwu Gabriel.
 This project was completed as part of the ALX Software Engineering Program to demonstrate basic front-end development and JavaScript interactivity skills.
